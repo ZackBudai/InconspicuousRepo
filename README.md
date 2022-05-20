@@ -1,5 +1,7 @@
 # InconspicuousRepo
 Totally no scripts here at all...
+
+
 Commenting is kinda minimal, easier to walk people through the functionality.
 It is good practice to not rely on the scripts for points, so I have included a short writeup of a checklist that contains some instructions to enable and disable certain services that could score points within the competition. At this current time I am trying to access my old laptop which contains some more expansive checklists. 
 
